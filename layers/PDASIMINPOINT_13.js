@@ -1,0 +1,1 @@
+var json_PDASIMINPOINT_13 = {"type":"FeatureCollection","name":"PDASIMINPOINT_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Taman Rojomolo Semanggi","Nama":"Muhammad Saleh, Bintang Sagita, Sugeng Raharjo"},"geometry":{"type":"Point","coordinates":[110.8372596,-7.5900518]}}]}

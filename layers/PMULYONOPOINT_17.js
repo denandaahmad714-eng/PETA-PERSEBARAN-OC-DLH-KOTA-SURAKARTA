@@ -1,0 +1,1 @@
+var json_PMULYONOPOINT_17 = {"type":"FeatureCollection","name":"PMULYONOPOINT_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Taman Komplang","Nama":"Eko Sulistyo, Sutarno"},"geometry":{"type":"Point","coordinates":[110.8109664,-7.5441573]}}]}
